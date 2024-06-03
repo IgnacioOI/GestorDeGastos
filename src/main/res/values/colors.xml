@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#8692f7</color>
+    <color name="colorPrimary">#1976D2</color> <!-- Azul oscuro -->
+    <color name="colorPrimaryDark">#0D47A1</color> <!-- Azul oscuro más oscuro -->
+    <color name="colorAccent">#FFA000</color> <!-- Naranja -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Blanco -->
+    <color name="colorTextPrimary">#212121</color> <!-- Negro -->
+    <color name="colorTextSecondary">#757575</color> <!-- Gris -->
+    <color name="red_japanese">#FF0000</color> <!-- Rojo -->
+    <color name="gold_japanese">#FFD700</color>
+    <color name="mini">#DFD3C5</color>
+    <color name="minimalista">#F4C3B4</color>
+    <color name="oscuro_minimalista">#a8cec1</color>
+    <color name="stroke_color">#FFD700</color> <!-- Color dorado para el borde -->
+    <color name="edittext_background">#ffffff</color> <!-- Fondo blanco para EditText -->
+    <color name="default_background">#424242</color>
+
+    <!-- Fondo del CardView -->
+    <color name="card_background">#263238</color>
+    <!-- Fondo verde oscuro cálido -->
+    <color name="background_green_dark">#004d40</color>
+
+    <!-- Colores minimalistas adicionales -->
+    <color name="primary_color">#009688</color>
+    <color name="secondary_color">#80cbc4</color>
+    <color name="accent_color">#4db6ac</color>
+    <color name="text_primary">#ffffff</color>
+    <color name="text_secondary">#b2dfdb</color>
+
+
+
+</resources>
